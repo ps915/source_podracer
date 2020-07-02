@@ -7,7 +7,7 @@ Open Source FPV Drone Frame project initiated by Team BlackSheep
 The TBS Source PodRacer is a ultralight concept frame for 4 and 5 inch propellers using the new lightweight building materials such as the small t-mount propellers and motors as well as all-in-one flight controller and ESC boards.
 
 The frame is donated to the community to empower creators and makers, and integrate best practices and current trends faster into a continuously manufactured product. In return, it allows the local distribution network to have cheap and direct access to a good frame to compete in an increasingly competitive marketplace.
-<img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p5.jpg" width="800">
+<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_2.JPG" width="800">
 
 ## Frame specifications
 * Wheelbase: 200mm
@@ -17,6 +17,8 @@ The frame is donated to the community to empower creators and makers, and integr
 * Stack Mout: 19 x19mm, 26x26mm, 20x20mm
 * Motor Mount: 12 x 12mm & 9 x 9mm
 * Weight: 47g
+
+<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_arms_1.JPG" width="800">
 
 ## Hardware
 * 8x M2x10mm Countersunk screws
@@ -28,7 +30,8 @@ The frame is donated to the community to empower creators and makers, and integr
 * 2x 5mm Carbon Fiber Arms
 * 1x Black Nylon 3D printed canopy
 
-<img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p3.jpg" width="800">
+<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_3.JPG" width="800">
+<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_y_arms_2.JPG" width="800">
 
 ## Project links
 * Project discussion: https://discordapp.com/invite/ZJGkHwF 
@@ -50,12 +53,14 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 ### Source PodRacer V1
 * initial release from TBS
 
-<img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p1.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p2.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p3.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p4.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p5.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p6.jpg" width="350">
+3D Printed Pod
+<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_pod_1.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_pod_2.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_pod_3.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_pod_4.JPG" width="350">
 
-Arm Upgrade
+Y-Arms
+<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_y_arms_1.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_y_arms_2.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_y_arms_3.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_y_arms_4.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_y_arms_5.JPG" width="350">
 
-<img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p1.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p2.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p3.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p4.jpg" width="350">
-
+Arms
+<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_arms_1.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_arms_2.JPG" width="350">
 
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
