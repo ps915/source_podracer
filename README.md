@@ -1,6 +1,6 @@
 # source_podracer
 Open Source FPV Drone Frame project initiated by Team BlackSheep
-[<img src="https://github.com/ps915/source_v/raw/master/photos/source_v_small.png" width="800">](https://github.com/ps915/source_v/raw/master/photos/source_v.png)
+[<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_small.png" width="800">](https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_small.png)
 
 # About Source PodRacer
 ## The idea
