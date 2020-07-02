@@ -65,6 +65,9 @@ Arms
 
 <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_arms_1.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/source_podracer_arms_2.JPG" width="350">
 
+Fusion360 Render
+
+<img src="https://raw.githubusercontent.com/ps915/source_podracer/master/photos/Source_PodRacer_v1.0_rendered.png" width="350">
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
 
