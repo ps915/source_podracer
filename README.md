@@ -10,17 +10,23 @@ The frame is donated to the community to empower creators and makers, and integr
 <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p5.jpg" width="800">
 
 ## Frame specifications
-* Wheelbase 5": 218mm
-* Top Plate: 2mm
-* Bottom Plate: 2mm
-* Standoff height: M3x30mm
-* Arm thickness 5": 2x12mm
-* Stack Mounting: 30.5 × 30.5mm & 20 x 20
-* Weight 5": 63g
+* Wheelbase: 200mm
+* Stacking Mounting Plate: 1.5mm
+* Bottom Plate: 1.5mm
+* Arms: 5mm
+* Stack Mout: 19 x19mm, 26x26mm, 20x20mm
+* Motor Mount: 12 x 12mm & 9 x 9mm
+* Weight: 47g
 
 ## Hardware
-* 4x Standoffs M3x30mm
-* 24x M3x14mm
+* 8x M2x10mm Countersunk screws
+* 4x M2x12mm Countersunk screws
+* 2x M2x6mm Socket head screws
+* 24x M2x10mm Socket screws
+* 1x 1.5mm Carbon Fiber Top Plate
+* 1x 1.5mm Carbon Fiber Bottom Plate
+* 2x 5mm Carbon Fiber Arms
+* 1x Black Nylon 3D printed canopy
 
 <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p3.jpg" width="800">
 
@@ -32,8 +38,7 @@ The frame is donated to the community to empower creators and makers, and integr
 Please use the tag "sourcepodracer" when uploading files to thingiverse.com
 
 ## Where to buy
-* [www.team-blacksheep.com](https://www.team-blacksheep.com/products/prod:source_v) / [arm upgrade](https://www.team-blacksheep.com/products/prod:source_v_arms)
-* [www.shop.brickracing.com](https://shop.brickracing.com/TBS-Source-V-drone-frame)
+* [www.team-blacksheep.com](https://www.team-blacksheep.com/products/prod:source_podracer5) / [Y Arms](https://www.team-blacksheep.com/products/prod:podracer5_yarms) / [4 inch arms](https://www.team-blacksheep.com/products/prod:podracer4_arm)
 * open [issue]("https://github.com/ps915/source_v/issues/new) if you want your shop added
 
 
